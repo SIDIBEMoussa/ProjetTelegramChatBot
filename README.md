@@ -1,7 +1,8 @@
 # ProjetTelegramChatBot
 Ce mini-projet s'inscrit dans le cadre d'une réalisation académique 
 
-Ce projet contient 5 méthodes:\\
+Ce projet contient 5 méthodes:
+
 -hello: En envoyant la salutation /hello le chatbot informe l'utilisateur des opportunités offertes
 - Main_Menu: Qui est le menu principal de ce projet contenant deux méthodes: /track_my_code et /Other
 - track_my_code: Cette méthode permet de vérifier la validité du code client saisi
